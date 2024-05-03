@@ -9,6 +9,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
+  background-color: #40444f;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -138,7 +139,7 @@ body {
 .home {
   /* note: This home is includes the whole section*/
   /* background-color: #292c35; */
-  background-image: url(img/background-image.jpg);
+  background-color: darkslategray;
   background-position: center;
   background-size: cover;
   min-height: 40vh;
